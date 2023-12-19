@@ -6,3 +6,10 @@ This project focuses on Data Cleaning with the following tasks
 * Parsing Dates
 * Character encoding
 * Inconsistent Data Entry
+
+# [Project 2 : Data-Visualization](https://github.com/Kholeka98/Data-Visualization-)
+* Line charts
+* Bar charts and heatmaps
+* Scatter plots
+* Distribution
+* Choosing plot types and custom styles
