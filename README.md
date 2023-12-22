@@ -14,4 +14,6 @@ This project focuses on Data Cleaning with the following tasks
 * Distribution
 * Choosing plot types and custom styles
 
-https://github.com/Kholeka98/Machine-Learning
+
+# [Project 3: Machine-Learning](https://github.com/Kholeka98/Machine-Learning)
+* Introduction to Machine learning
