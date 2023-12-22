@@ -13,3 +13,5 @@ This project focuses on Data Cleaning with the following tasks
 * Scatter plots
 * Distribution
 * Choosing plot types and custom styles
+
+https://github.com/Kholeka98/Machine-Learning
